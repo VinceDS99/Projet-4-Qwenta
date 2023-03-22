@@ -1,0 +1,17 @@
+blog comment choisir un langage back-end
+
+l’outil de gestion de projet= notion trello
+
+feedly
+
+besoin du clients (choix technologique) -> creer, diffuser, personnaliser et imprimer un menu
+
+poster kakemono flyer avec react
+
+
+
+powerpoint
+->framework front end
+ -> Libraire interface utilisateur(impression librairie flyer etc)
+		->Librairie CSS (ex: bootstrap)
+		-> outil pour le code (vscode(extenisons, pratique,) dbeaver)
