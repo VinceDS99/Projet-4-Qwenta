@@ -15,3 +15,7 @@ powerpoint
  -> Libraire interface utilisateur(impression librairie flyer etc)
 		->Librairie CSS (ex: bootstrap)
 		-> outil pour le code (vscode(extenisons, pratique,) dbeaver)
+
+//////
+
+-Remplir le Wakalet avec ce que prsenter dans le powerpint
