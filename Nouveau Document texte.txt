@@ -19,3 +19,26 @@ powerpoint
 //////
 
 -Remplir le Wakalet avec ce que prsenter dans le powerpint
+
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Finir wAKALet
+
+
+https://course.oc-static.com/projects/D%C3%A9veloppeur+Web/IW_P7+solution+technique+Menu+Maker+Qwenta/Menu+Maker+by+Qwenta+%E2%80%93+Spe%CC%81cifications+fonctionnelles.pdf = exporter pdf(impression) et diffusion deliveroo
+
+deuxieme tableau 'envisagealbe a l'avenir' = impression flyer et envoi par mail
+
+
+contrat maintenance :
+maintenance physique  changement de ram
+maintenance logiciel = bug sur le site
+
+fusion slide 10 et 11
+
+diaporama notion sur les choix techniques du word et comment jai utiliser notion
+effectuer une veille et rediger specification technique
+expliquer utilite priorite theme etat de la tache
+
+
